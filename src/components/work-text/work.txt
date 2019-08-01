@@ -1,11 +1,15 @@
 
 
 Hello! I'm Tiger.
-Even though I'm a front end developer,
+Even though I'm a front-end developer,
 my interest is not in limit of this，
-so welcome to contact me by email at：
+so welcome to contact me by email：
  mingwei.wang@hexinkang.com
- and I trust 'Where is will,where is a way.'
+
+ I'd like to create things,
+ make life more interesting,
+  and make work easier.
+ I believe 'Where is will,where is a way.'
  This is my github below,
  I would appreciate your comments.
 
